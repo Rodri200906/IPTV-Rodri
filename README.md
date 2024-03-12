@@ -29,3 +29,8 @@ SIC Noticias
 
 CNN Portugal
 
+TVI Ficção
+
+Porto Canal
+
+TVI Reality
