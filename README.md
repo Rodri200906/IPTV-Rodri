@@ -66,7 +66,7 @@ L'équipe 21
 
 # The IPTV Link 📎
 
-IPTV: Tomorow
+IPTV: https://raw.githubusercontent.com/Rodri200906/IPTV-Rodri/main/IPTV-Rodri.m3u
 
 # Radio Channel France 📻
 RTL
