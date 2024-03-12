@@ -10,8 +10,22 @@ This is a IPTV file by me an she contents Portuguese and French Channels and Rad
 
 3- Click on "New M3U Playlist" Bouton.
 
-4- Copy, Paste the link of the iptv.
+4- Copy, Paste the link of the iptv Player.
 
 5- Add a Name.
 
 6- Click on the OK bouton and enjoy.
+
+# Channels Portugal
+RTP 1
+
+RTP 2
+
+SIC
+
+TVI
+
+SIC Noticias
+
+CNN Portugal
+
