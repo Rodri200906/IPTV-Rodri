@@ -19,7 +19,7 @@ https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/64158
 https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://static.epg.best/fr/TF1.fr.png" group-title="TV France",TF1
-https://raw.githubusercontent.com/BG47510/sniftv/main/bouy/t1.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/mytf1/tf1.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://static.epg.best/fr/France2.fr.png" group-title="TV France",France 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr2nv.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://static.epg.best/fr/France3.fr.png" group-title="TV France",France 3
@@ -31,9 +31,9 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://static.epg.best/fr/C8.fr.png" group-title="TV France",C8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/c8/c8s.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://static.epg.best/fr/TMC.fr.png" group-title="TV France",TMC
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/tmc1.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/mytf1/tmc.m3u8
 #EXTINF:-1 tvg-id="NT1.fr" tvg-logo="https://static.epg.best/fr/TFX.fr.png" group-title="TV France",TFX
-https://raw.githubusercontent.com/BG47510/sniftv/main/bouy/fx.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/mytf1/tfx.m3u8
 #EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/640px-NRJ12_logo_2015.svg.png" group-title="TV France",NRJ12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://static.epg.best/fr/France4.fr.png" group-title="TV France",France 4
