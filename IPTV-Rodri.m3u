@@ -28,14 +28,18 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr5nv.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ce56cfe9-0ead-4884-ba26-926fb45f52b7/dfo17a0-1d5d923e-c864-4060-8412-8cdc2ca025f2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NlNTZjZmU5LTBlYWQtNDg4NC1iYTI2LTkyNmZiNDVmNTJiN1wvZGZvMTdhMC0xZDVkOTIzZS1jODY0LTQwNjAtODQxMi04Y2RjMmNhMDI1ZjIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.s3w9gZpURoSdykqEShhKFIa_m0u43UXoTm8Fm7qqXHQ" group-title="TV France",M6
 https://sv1.data-stream.top/1488ff034538ef1357195f3b0ae5bfafd45d183a20b386625738d08522458549/hls/m6france.m3u8
+#EXTINF:-1 tvg-id="Arte.fr" tvg-logo="https://static.epg.best/fr/arte.fr.png" group-title="TV France",Arte
+https://sv1.data-stream.top/1488ff034538ef1357195f3b0ae5bfafd45d183a20b386625738d08522458549/hls/artefrance.m3u8
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://static.epg.best/fr/C8.fr.png" group-title="TV France",C8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/c8/c8s.m3u8
+#EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://static.epg.best/fr/W9.fr.png" group-title="TV France",W9
+https://sv7.data-stream.top/1488ff034538ef1357195f3b0ae5bfafd45d183a20b386625738d08522458549/hls/w9france.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://static.epg.best/fr/TMC.fr.png" group-title="TV France",TMC
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/mytf1/tmc.m3u8
 #EXTINF:-1 tvg-id="NT1.fr" tvg-logo="https://static.epg.best/fr/TFX.fr.png" group-title="TV France",TFX
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/mytf1/tfx.m3u8
 #EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/640px-NRJ12_logo_2015.svg.png" group-title="TV France",NRJ12
-https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+https://sv1.data-stream.top/1488ff034538ef1357195f3b0ae5bfafd45d183a20b386625738d08522458549/hls/nrj12fr2.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://static.epg.best/fr/France4.fr.png" group-title="TV France",France 4
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://static.epg.best/fr/BFMTV.fr.png" group-title="TV France",BFM TV
@@ -46,6 +50,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion
 https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
 #EXTINF:-1 tvg-id="LEquipe21.fr" tvg-logo="https://static.epg.best/fr/LEquipe21.fr.png" group-title="TV France",L'équipe 21
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
+#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://static.epg.best/fr/6ter.fr.png" group-title="TV France",6ter
+https://sv1.data-stream.top/1488ff034538ef1357195f3b0ae5bfafd45d183a20b386625738d08522458549/hls/6ter.m3u8
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-logo="https://static.epg.best/fr/RMCStory.fr.png" group-title="TV France",RMC Story
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 #EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://static.epg.best/fr/RMCDecouverte.fr.png" group-title="TV France",RMC Découverte
