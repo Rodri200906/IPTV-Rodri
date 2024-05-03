@@ -49,7 +49,7 @@ https://hls-m010-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" group-title="TV France",Gulli
 https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
 #EXTINF:-1 tvg-id="LEquipe21.fr" tvg-logo="https://static.epg.best/fr/LEquipe21.fr.png" group-title="TV France",L'équipe 21
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equipe21/equipe21.m3u8
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://static.epg.best/fr/6ter.fr.png" group-title="TV France",6ter
 https://sv1.data-stream.top/1488ff034538ef1357195f3b0ae5bfafd45d183a20b386625738d08522458549/hls/6ter.m3u8
 
