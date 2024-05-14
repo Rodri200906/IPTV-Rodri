@@ -27,11 +27,11 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://static.epg.best/fr/France5.fr.png" group-title="TV France",France 5
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr5nv.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ce56cfe9-0ead-4884-ba26-926fb45f52b7/dfo17a0-1d5d923e-c864-4060-8412-8cdc2ca025f2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NlNTZjZmU5LTBlYWQtNDg4NC1iYTI2LTkyNmZiNDVmNTJiN1wvZGZvMTdhMC0xZDVkOTIzZS1jODY0LTQwNjAtODQxMi04Y2RjMmNhMDI1ZjIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.s3w9gZpURoSdykqEShhKFIa_m0u43UXoTm8Fm7qqXHQ" group-title="TV France",M6
-https://raw.githubusercontent.com/Rodri200906/IPTV-Rodri/main/Indisponible.ts
+http://gratuittv.free.fr/Files/m6/live/playlist.m3u8
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://static.epg.best/fr/C8.fr.png" group-title="TV France",C8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/c8/c8.m3u8
 #EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://static.epg.best/fr/W9.fr.png" group-title="TV France",W9
-https://raw.githubusercontent.com/Rodri200906/IPTV-Rodri/main/Indisponible.ts
+http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://static.epg.best/fr/TMC.fr.png" group-title="TV France",TMC
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
 #EXTINF:-1 tvg-id="NT1.fr" tvg-logo="https://static.epg.best/fr/TFX.fr.png" group-title="TV France",TFX
@@ -49,7 +49,7 @@ https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2h
 #EXTINF:-1 tvg-id="LEquipe21.fr" tvg-logo="https://static.epg.best/fr/LEquipe21.fr.png" group-title="TV France",L'équipe 21
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equipe21/equipe21.m3u8
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://static.epg.best/fr/6ter.fr.png" group-title="TV France",6ter
-https://raw.githubusercontent.com/Rodri200906/IPTV-Rodri/main/Indisponible.ts
+http://gratuittv.free.fr/Files/6ter/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RTL_logo.svg/1200px-RTL_logo.svg.png" radio="true" group-title="Radio France",RTL
 https://icecast.rtl.fr/rtl-1-44-128
