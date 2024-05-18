@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://static.epg.best/fr/France5.fr.png" group-title="TV France",France 5
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr5nv.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ce56cfe9-0ead-4884-ba26-926fb45f52b7/dfo17a0-1d5d923e-c864-4060-8412-8cdc2ca025f2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NlNTZjZmU5LTBlYWQtNDg4NC1iYTI2LTkyNmZiNDVmNTJiN1wvZGZvMTdhMC0xZDVkOTIzZS1jODY0LTQwNjAtODQxMi04Y2RjMmNhMDI1ZjIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.s3w9gZpURoSdykqEShhKFIa_m0u43UXoTm8Fm7qqXHQ" group-title="TV France",M6
-http://gratuittv.free.fr/Files/m6/live/playlist.m3u8
+https://livetvde.net/m6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://static.epg.best/fr/C8.fr.png" group-title="TV France",C8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/c8/c8.m3u8
 #EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://static.epg.best/fr/W9.fr.png" group-title="TV France",W9
