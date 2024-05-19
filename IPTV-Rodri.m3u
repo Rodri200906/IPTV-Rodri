@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://static.epg.best/fr/BFMTV.fr.png" group-title="TV France",BFM TV
 https://bfmtvalive1-a.akamaihd.net/r8ef15893bf3d4c2db0105218bdfe87f4/eu-central-1/876450610001/f836cfa96eb84ec9ba2458e936c4123d/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://static.epg.best/fr/CStar.fr.png" group-title="TV France",CSTAR
-https://hls-m010-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/cstar/cstar.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" group-title="TV France",Gulli
 https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
 #EXTINF:-1 tvg-id="LEquipe21.fr" tvg-logo="https://static.epg.best/fr/LEquipe21.fr.png" group-title="TV France",L'équipe 21
