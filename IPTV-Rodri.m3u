@@ -1,21 +1,21 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy984zxaw92m6nxr5"
-#EXTINF:-1 tvg-id="RTP1(src01).pt" tvg-name="RTP 1" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1.png" group-title="TV Portugal" tvg-shift="+2",RTP 1
+#EXTINF:-1 tvg-id="RTP1(src01).pt" tvg-name="RTP 1" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1.png" group-title="TV Portugal" tvg-shift="+1",RTP 1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP2(src01).pt" tvg-name="RTP 2" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2.png" group-title="TV Portugal" tvg-shift="+2",RTP 2
+#EXTINF:-1 tvg-id="RTP2(src01).pt" tvg-name="RTP 2" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2.png" group-title="TV Portugal" tvg-shift="+1",RTP 2
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SIC(src01).pt" tvg-name="SIC" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="TV Portugal" tvg-shift="+2",SIC
+#EXTINF:-1 tvg-id="SIC(src01).pt" tvg-name="SIC" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="TV Portugal" tvg-shift="+1",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 tvg-id="TVI(src01).pt" tvg-name="TVI" tvg-logo="https://tvi.iol.pt/img/logo.png" group-title="TV Portugal" tvg-shift="+2",TVI
+#EXTINF:-1 tvg-id="TVI(src01).pt" tvg-name="TVI" tvg-logo="https://tvi.iol.pt/img/logo.png" group-title="TV Portugal" tvg-shift="+1",TVI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
-#EXTINF:-1 tvg-id="SICNoticias(src01).pt" tvg-name="SIC Noticias" tvg-logo="https://images.impresa.pt/scd/2023-10-20-sicnot-alt.png-0c5ecfcc-1/original/mw-320" group-title="TV Portugal" tvg-shift="+2",SIC Noticias
+#EXTINF:-1 tvg-id="SICNoticias(src01).pt" tvg-name="SIC Noticias" tvg-logo="https://images.impresa.pt/scd/2023-10-20-sicnot-alt.png-0c5ecfcc-1/original/mw-320" group-title="TV Portugal" tvg-shift="+1",SIC Noticias
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
-#EXTINF:-1 tvg-id="CNNPortugal(src01).pt" tvg-name="CNN PORTUGAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMhSHS1fioOrEoPHSy-KCpsjjGf3TKI_mMrOaldnRFQg&s" group-title="TV Portugal" tvg-shift="+2",CNN PORTUGAL
+#EXTINF:-1 tvg-id="CNNPortugal(src01).pt" tvg-name="CNN PORTUGAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMhSHS1fioOrEoPHSy-KCpsjjGf3TKI_mMrOaldnRFQg&s" group-title="TV Portugal" tvg-shift="+1",CNN PORTUGAL
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
-#EXTINF:-1 tvg-id="TVIFiccao(src01).pt" tvg-name="TVI Ficção" tvg-logo="https://static.epg.best/pt/TVIFiccao.pt.png" group-title="TV Portugal" tvg-shift="+2",TVI Ficção
+#EXTINF:-1 tvg-id="TVIFiccao(src01).pt" tvg-name="TVI Ficção" tvg-logo="https://static.epg.best/pt/TVIFiccao.pt.png" group-title="TV Portugal" tvg-shift="+1",TVI Ficção
 https://video-auth5.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="PortoCanal(src01).pt" tvg-name="Porto Canal" tvg-logo="https://portocanal.sapo.pt/uploads/noticias/noticia_00078678-580x464.jpg" group-title="TV Portugal" tvg-shift="+2",Porto Canal
+#EXTINF:-1 tvg-id="PortoCanal(src01).pt" tvg-name="Porto Canal" tvg-logo="https://portocanal.sapo.pt/uploads/noticias/noticia_00078678-580x464.jpg" group-title="TV Portugal" tvg-shift="+1",Porto Canal
 https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="TVIReal(src01).pt" tvg-name="TVI Reality" tvg-logo="https://static.epg.best/pt/TVIReality.pt.png" group-title="TV Portugal" tvg-shift="+2",TVI Reality
+#EXTINF:-1 tvg-id="TVIReal(src01).pt" tvg-name="TVI Reality" tvg-logo="https://static.epg.best/pt/TVIReality.pt.png" group-title="TV Portugal" tvg-shift="+1",TVI Reality
 https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://static.epg.best/fr/TF1.fr.png" group-title="TV France" tvg-shift="+2",TF1
