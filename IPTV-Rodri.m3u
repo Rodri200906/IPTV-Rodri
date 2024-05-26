@@ -1,104 +1,104 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/EPG/epg-nos-pt.xml.gz,https://xmltvfr.fr/xmltv/xmltv.xml.gz"
-#EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1.png" group-title="TV Portugal",RTP 1
+#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy984zxaw92m6nxr5"
+#EXTINF:-1 tvg-id="RTP1(src01).pt" tvg-name="RTP 1" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1.png" group-title="TV Portugal" tvg-shift="+2",RTP 1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP2.pt" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2.png" group-title="TV Portugal",RTP 2
+#EXTINF:-1 tvg-id="RTP2(src01).pt" tvg-name="RTP 2" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2.png" group-title="TV Portugal" tvg-shift="+2",RTP 2
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="TV Portugal",SIC
+#EXTINF:-1 tvg-id="SIC(src01).pt" tvg-name="SIC" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="TV Portugal" tvg-shift="+2",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="https://tvi.iol.pt/img/logo.png" group-title="TV Portugal",TVI
+#EXTINF:-1 tvg-id="TVI(src01).pt" tvg-name="TVI" tvg-logo="https://tvi.iol.pt/img/logo.png" group-title="TV Portugal" tvg-shift="+2",TVI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
-#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-logo="https://images.impresa.pt/scd/2023-10-20-sicnot-alt.png-0c5ecfcc-1/original/mw-320" group-title="TV Portugal",SIC Noticias
+#EXTINF:-1 tvg-id="SICNoticias(src01).pt" tvg-name="SIC Noticias" tvg-logo="https://images.impresa.pt/scd/2023-10-20-sicnot-alt.png-0c5ecfcc-1/original/mw-320" group-title="TV Portugal" tvg-shift="+2",SIC Noticias
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
-#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMhSHS1fioOrEoPHSy-KCpsjjGf3TKI_mMrOaldnRFQg&s" group-title="TV Portugal",CNN PORTUGAL
+#EXTINF:-1 tvg-id="CNNPortugal(src01).pt" tvg-name="CNN PORTUGAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMhSHS1fioOrEoPHSy-KCpsjjGf3TKI_mMrOaldnRFQg&s" group-title="TV Portugal" tvg-shift="+2",CNN PORTUGAL
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-logo="https://static.epg.best/pt/TVIFiccao.pt.png" group-title="TV Portugal",TVI Ficção
+#EXTINF:-1 tvg-id="TVIFiccao(src01).pt" tvg-name="TVI Ficção" tvg-logo="https://static.epg.best/pt/TVIFiccao.pt.png" group-title="TV Portugal" tvg-shift="+2",TVI Ficção
 https://video-auth5.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="https://portocanal.sapo.pt/uploads/noticias/noticia_00078678-580x464.jpg" group-title="TV Portugal",Porto Canal
+#EXTINF:-1 tvg-id="PortoCanal(src01).pt" tvg-name="Porto Canal" tvg-logo="https://portocanal.sapo.pt/uploads/noticias/noticia_00078678-580x464.jpg" group-title="TV Portugal" tvg-shift="+2",Porto Canal
 https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-logo="https://static.epg.best/pt/TVIReality.pt.png" group-title="TV Portugal",TVI Reality
+#EXTINF:-1 tvg-id="TVIReal(src01).pt" tvg-name="TVI Reality" tvg-logo="https://static.epg.best/pt/TVIReality.pt.png" group-title="TV Portugal" tvg-shift="+2",TVI Reality
 https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://static.epg.best/fr/TF1.fr.png" group-title="TV France",TF1
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://static.epg.best/fr/TF1.fr.png" group-title="TV France" tvg-shift="+2",TF1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
-#EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://static.epg.best/fr/France2.fr.png" group-title="TV France",France 2
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-logo="https://static.epg.best/fr/France2.fr.png" group-title="TV France" tvg-shift="+2",France 2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr2nv.m3u8
-#EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://static.epg.best/fr/France3.fr.png" group-title="TV France",France 3
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-logo="https://static.epg.best/fr/France3.fr.png" group-title="TV France" tvg-shift="+2",France 3
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr3.m3u8
-#EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://static.epg.best/fr/France5.fr.png" group-title="TV France",France 5
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" tvg-logo="https://static.epg.best/fr/France5.fr.png" group-title="TV France" tvg-shift="+2",France 5
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr5nv.m3u8
-#EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ce56cfe9-0ead-4884-ba26-926fb45f52b7/dfo17a0-1d5d923e-c864-4060-8412-8cdc2ca025f2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NlNTZjZmU5LTBlYWQtNDg4NC1iYTI2LTkyNmZiNDVmNTJiN1wvZGZvMTdhMC0xZDVkOTIzZS1jODY0LTQwNjAtODQxMi04Y2RjMmNhMDI1ZjIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.s3w9gZpURoSdykqEShhKFIa_m0u43UXoTm8Fm7qqXHQ" group-title="TV France",M6
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ce56cfe9-0ead-4884-ba26-926fb45f52b7/dfo17a0-1d5d923e-c864-4060-8412-8cdc2ca025f2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwia" group-title="TV France" tvg-shift="+2",M6
 https://livetvde.net/m6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://static.epg.best/fr/C8.fr.png" group-title="TV France",C8
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="C8" tvg-logo="https://static.epg.best/fr/C8.fr.png" group-title="TV France" tvg-shift="+2",C8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/c8/c8.m3u8
-#EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://static.epg.best/fr/W9.fr.png" group-title="TV France",W9
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" tvg-logo="https://static.epg.best/fr/W9.fr.png" group-title="TV France" tvg-shift="+2",W9
 http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://static.epg.best/fr/TMC.fr.png" group-title="TV France",TMC
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" tvg-logo="https://static.epg.best/fr/TMC.fr.png" group-title="TV France" tvg-shift="+2",TMC
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
-#EXTINF:-1 tvg-id="NT1.fr" tvg-logo="https://static.epg.best/fr/TFX.fr.png" group-title="TV France",TFX
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" tvg-logo="https://static.epg.best/fr/TFX.fr.png" group-title="TV France" tvg-shift="+2",TFX
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
-#EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/640px-NRJ12_logo_2015.svg.png" group-title="TV France",NRJ12
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="NRJ12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/640px-NRJ12_logo_2015.svg.png" group-title="TV France" tvg-shift="+2",NRJ12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
-#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://static.epg.best/fr/France4.fr.png" group-title="TV France",France 4
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-logo="https://static.epg.best/fr/France4.fr.png" group-title="TV France" tvg-shift="+2",France 4
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://static.epg.best/fr/BFMTV.fr.png" group-title="TV France",BFM TV
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="https://static.epg.best/fr/BFMTV.fr.png" group-title="TV France" tvg-shift="+2",BFM TV
 https://bfmtvalive1-a.akamaihd.net/r8ef15893bf3d4c2db0105218bdfe87f4/eu-central-1/876450610001/f836cfa96eb84ec9ba2458e936c4123d/playlist_ssaiM.m3u8
-#EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://static.epg.best/fr/CStar.fr.png" group-title="TV France",CSTAR
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CSTAR" tvg-logo="https://static.epg.best/fr/CStar.fr.png" group-title="TV France" tvg-shift="+2",CSTAR
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/cstar/cstar.m3u8
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" group-title="TV France",Gulli
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" group-title="TV France" tvg-shift="+2",Gulli
 https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
-#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-logo="https://static.epg.best/fr/LEquipe21.fr.png" group-title="TV France",L'équipe 21
+#EXTINF:-1 tvg-id="LEquipe.fr" tvg-name="L'équipe 21" tvg-logo="https://static.epg.best/fr/LEquipe21.fr.png" group-title="TV France" tvg-shift="+2",L'équipe 21
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equipe21/equipe21.m3u8
-#EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://static.epg.best/fr/6ter.fr.png" group-title="TV France",6ter
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" tvg-logo="https://static.epg.best/fr/6ter.fr.png" group-title="TV France" tvg-shift="+2",6ter
 http://gratuittv.free.fr/Files/6ter/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RTL_logo.svg/1200px-RTL_logo.svg.png" radio="true" group-title="Radio France",RTL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RTL_logo.svg/1200px-RTL_logo.svg.png" group-title="Radio France" tvg-shift="+2",RTL
 https://icecast.rtl.fr/rtl-1-44-128
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/France_Inter_logo_2021.svg/1200px-France_Inter_logo_2021.svg.png" radio="true" group-title="Radio France",France Inter
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="France Inter" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/France_Inter_logo_2021.svg/1200px-France_Inter_logo_2021.svg.png" group-title="Radio France" tvg-shift="+2",France Inter
 http://icecast.radiofrance.fr/franceinter-midfi.mp3
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLk7ExQvZ0-JuvprP-w5lGLQa83YwvS4AvNJwea_hpxw&s" radio="true" group-title="Radio France",Franceinfo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Franceinfo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLk7ExQvZ0-JuvprP-w5lGLQa83YwvS4AvNJwea_hpxw&s" group-title="Radio France" tvg-shift="+2",Franceinfo
 https://icecast.radiofrance.fr/franceinfo-midfi.mp3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_RMC_2002.svg/800px-Logo_RMC_2002.svg.png" radio="true" group-title="Radio France",RMC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_RMC_2002.svg/800px-Logo_RMC_2002.svg.png" group-title="Radio France" tvg-shift="+2",RMC
 https://audio.bfmtv.com/rmcradio_128.mp3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0b/Nostalgie_logo_2015.png" radio="true" group-title="Radio France",Nostalgie
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nostalgie" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0b/Nostalgie_logo_2015.png" group-title="Radio France" tvg-shift="+2",Nostalgie
 https://scdn.nrjaudio.fm/adwz2/fr/30601/mp3_128.mp3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e0/Logo_Europe1.png" radio="true" group-title="Radio France",Europe 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Europe 1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e0/Logo_Europe1.png" group-title="Radio France" tvg-shift="+2",Europe 1
 https://stream.europe1.fr/europe1.mp3
-#EXTINF:-1 tvg-logo="https://cdn.uc.assets.prezly.com/be0235c9-72b9-4611-ac9a-f32f7b942cbe/-/crop/2084x2084/0,1/-/preview/" radio="true" group-title="Radio France",NRJ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NRJ" tvg-logo="https://cdn.uc.assets.prezly.com/be0235c9-72b9-4611-ac9a-f32f7b942cbe/-/crop/2084x2084/0,1/-/preview/" group-title="Radio France" tvg-shift="+2",NRJ
 https://scdn.nrjaudio.fm/adwz2/fr/30001/mp3_128.mp3
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv4B2BDAGDy-vMOREkTLk-FLhr5fwLlYZC-kzjaCv6YQ&s" radio="true" group-title="Radio France",Chérie FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chérie FM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv4B2BDAGDy-vMOREkTLk-FLhr5fwLlYZC-kzjaCv6YQ&s" group-title="Radio France" tvg-shift="+2",Chérie FM
 https://scdn.nrjaudio.fm/adwz2/fr/30201/mp3_128.mp3
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0BXYKGd6WLg8Y7JbNRRRBuqmbD6B2ioyFLRvqvEXP6A&s" radio="true" group-title="Radio France",Skyrock
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Skyrock" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0BXYKGd6WLg8Y7JbNRRRBuqmbD6B2ioyFLRvqvEXP6A&s" group-title="Radio France" tvg-shift="+2",Skyrock
 https://icecast.skyrock.net/s/natio_mp3_128k
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/eb/Logo-Rire_et_chansons-2020.svg/640px-Logo-Rire_et_chansons-2020.svg.png" radio="true" group-title="Radio France",Rire et Chansons
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rire et Chansons" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/eb/Logo-Rire_et_chansons-2020.svg/640px-Logo-Rire_et_chansons-2020.svg.png" group-title="Radio France" tvg-shift="+2",Rire et Chansons
 https://scdn.nrjaudio.fm/adwz2/fr/30401/mp3_128.mp3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Fun_Radio_2021_logo.png" radio="true" group-title="Radio France",Fun Radio
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fun Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Fun_Radio_2021_logo.png" group-title="Radio France" tvg-shift="+2",Fun Radio
 https://icecast.funradio.fr/fun-1-44-128
 
-#EXTINF:-1 tvg-logo="" radio="true" group-title="Radio Portugal",RFM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RFM" tvg-logo="" group-title="Radio Portugal" tvg-shift="+2",RFM
 https://playerservices.streamtheworld.com/api/livestream-redirect/RFM_SC
-#EXTINF:-1 tvg-logo="" radio="true" group-title="Radio Portugal",Radio Commercial
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Commercial" tvg-logo="" group-title="Radio Portugal" tvg-shift="+2",Radio Commercial
 https://stream-icy.bauermedia.pt/commercial.mp3
-#EXTINF:-1 tvg-logo="" radio="true" group-title="Radio Portugal",Cidade FM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cidade FM" tvg-logo="" group-title="Radio Portugal" tvg-shift="+2",Cidade FM
 https://stream-icy.bauermedia.pt/cidade.mp3
-#EXTINF:-1 tvg-logo="" radio="true" group-title="Radio Portugal",M80
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M80" tvg-logo="" group-title="Radio Portugal" tvg-shift="+2",M80
 https://stream-icy.bauermedia.pt/m80.mp3
-#EXTINF:-1 tvg-logo="" radio="true" group-title="Radio Portugal",Antena 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Antena 1" tvg-logo="" group-title="Radio Portugal" tvg-shift="+2",Antena 1
 https://radiocast.rtp.pt/antena180a.mp3
-#EXTINF:-1 tvg-logo="" radio="true" group-title="Radio Portugal",Antena 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Antena 2" tvg-logo="" group-title="Radio Portugal" tvg-shift="+2",Antena 2
 https://radiocast.rtp.pt/antena280a.mp3
-#EXTINF:-1 tvg-logo="" radio="true" group-title="Radio Portugal",Antena 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Antena 3" tvg-logo="" group-title="Radio Portugal" tvg-shift="+2",Antena 3
 https://radiocast.rtp.pt/antena380a.mp3
-#EXTINF:-1 tvg-logo="" radio="true" group-title="Radio Portugal",Mega hits
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mega hits" tvg-logo="" group-title="Radio Portugal" tvg-shift="+2",Mega hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITS_SC
-#EXTINF:-1 tvg-logo="" radio="true" group-title="Radio Portugal",Renascença
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Renascença" tvg-logo="" group-title="Radio Portugal" tvg-shift="+2",Renascença
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC
-#EXTINF:-1 tvg-logo="" radio="true" group-title="Radio Portugal",Super Bock Super Rock
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Super Bock Super Rock" tvg-logo="" group-title="Radio Portugal" tvg-shift="+2",Super Bock Super Rock
 https://centova.radios.pt/proxy/435?mp=/stream/1/
-#EXTINF:-1 tvg-logo="" radio="true" group-title="Radio Portugal",Radio Sudoueste
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Sudoueste" tvg-logo="" group-title="Radio Portugal" tvg-shift="+2",Radio Sudoueste
 https://centova.radios.pt/proxy/495?mp=/stream/1/
-#EXTINF:-1 tvg-logo="" radio="true" group-title="Radio Portugal",Radio Regional de Arouca
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Regional de Arouca" tvg-logo="" group-title="Radio Portugal" tvg-shift="+2",Radio Regional de Arouca
 https://centova.radios.pt/proxy/485?mp=/stream/1/
-#EXTINF:-1 tvg-logo="" radio="true" group-title="Radio Portugal",Radio Botaréu
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Botaréu" tvg-logo="" group-title="Radio Portugal" tvg-shift="+2",Radio Botaréu
 https://nl.digitalrm.pt:8238/stream
-#EXTINF:-1 tvg-logo="" radio="true" group-title="Radio Portugal",Radio Hiper
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Hiper" tvg-logo="" group-title="Radio Portugal" tvg-shift="+2",Radio Hiper
 https://centova.radios.pt/proxy/500?mp=/stream/1/
