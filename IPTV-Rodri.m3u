@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy984zxaw92m6nxr5"
+#EXTM3U url-tvg="https://www.bevy.be/generate/gkQV96x9wC.xml"
 #EXTINF:-1 tvg-id="RTP1(src01).pt" tvg-name="RTP 1" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1.png" group-title="TV Portugal",RTP 1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP2(src01).pt" tvg-name="RTP 2" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2.png" group-title="TV Portugal",RTP 2
