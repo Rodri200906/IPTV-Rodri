@@ -1,6 +1,6 @@
 # IPTV-Rodri
 
-This is a IPTV file by me an she contents Portuguese and French Channels and Radios
+This is a IPTV file by me an she contents Portuguese and French Channels.
 
 # How to add on IPTV Player ?
 
@@ -67,53 +67,3 @@ L'équipe 21
 # The IPTV Link 📎
 
 IPTV: https://raw.githubusercontent.com/Rodri200906/IPTV-Rodri/main/IPTV-Rodri.m3u
-
-# Radio Channel France 📻
-RTL
-
-Franceinter
-
-Franceinfo
-
-RMC
-
-Nostalgie
-
-Europe 1
-
-NRJ
-
-Chérie FM
-
-Skyrock
-
-Rire et Chansons
-
-Fun Radio
-
-# Radio Channel Portugal 📻
-RFM
-
-Radio Commercial
-
-Cidade FM
-
-Antena 1
-
-Antena 2
-
-Antena 3
-
-Mega Hits
-
-Renascença
-
-Super Bock Super Rock
-
-Radio Sudoueste
-
-Radio Regional d'arouca
-
-Radio Botaréu
-
-Radio Hiper
