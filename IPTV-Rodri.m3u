@@ -18,7 +18,7 @@ https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/64158
 #EXTINF:-1 tvg-id="TVI Reality HD.pt" tvg-name="TVI Reality" tvg-logo="https://static.epg.best/pt/TVIReality.pt.png" group-title="TV Portugal",TVI Reality
 https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://static.epg.best/fr/TF1.fr.png" group-title="TV France" tvg-shift="+2",TF1
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://static.epg.best/fr/TF1.fr.png" group-title="TV France",TF1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-logo="https://static.epg.best/fr/France2.fr.png" group-title="TV France",France 2
 http://gratuittv.free.fr/Files/france2/live/playlist.m3u8
