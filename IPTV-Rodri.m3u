@@ -13,7 +13,7 @@ https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/in
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 #EXTINF:-1 tvg-id="TVI Ficção HD.pt" tvg-name="V+ TVI" tvg-logo="https://static.epg.best/pt/TVIFiccao.pt.png" group-title="TV Portugal",V+ TVI
 https://video-auth5.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="PortoCanal(src01).pt" tvg-name="Porto Canal" tvg-logo="https://portocanal.sapo.pt/uploads/noticias/noticia_00078678-580x464.jpg" group-title="TV Portugal",Porto Canal
+#EXTINF:-1 tvg-id="Porto Canal HD.pt" tvg-name="Porto Canal" tvg-logo="https://portocanal.sapo.pt/uploads/noticias/noticia_00078678-580x464.jpg" group-title="TV Portugal",Porto Canal
 https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="TVI Reality HD.pt" tvg-name="TVI Reality" tvg-logo="https://static.epg.best/pt/TVIReality.pt.png" group-title="TV Portugal",TVI Reality
 https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
