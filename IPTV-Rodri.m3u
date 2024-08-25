@@ -20,33 +20,33 @@ https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://static.epg.best/fr/TF1.fr.png" group-title="TV France" tvg-shift="+2",TF1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-logo="https://static.epg.best/fr/France2.fr.png" group-title="TV France" tvg-shift="+2",France 2
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-logo="https://static.epg.best/fr/France2.fr.png" group-title="TV France",France 2
 http://gratuittv.free.fr/Files/france2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-logo="https://static.epg.best/fr/France3.fr.png" group-title="TV France" tvg-shift="+2",France 3
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-logo="https://static.epg.best/fr/France3.fr.png" group-title="TV France",France 3
 http://gratuittv.free.fr/Files/france3/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" tvg-logo="https://static.epg.best/fr/France5.fr.png" group-title="TV France" tvg-shift="+2",France 5
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5" tvg-logo="https://static.epg.best/fr/France5.fr.png" group-title="TV France",France 5
 http://gratuittv.free.fr/Files/france5/live/playlist.m3u8
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ce56cfe9-0ead-4884-ba26-926fb45f52b7/dfo17a0-1d5d923e-c864-4060-8412-8cdc2ca025f2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwia" group-title="TV France" tvg-shift="+2",M6
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ce56cfe9-0ead-4884-ba26-926fb45f52b7/dfo17a0-1d5d923e-c864-4060-8412-8cdc2ca025f2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwia" group-title="TV France",M6
 http://gratuittv.free.fr/Files/m6/live/playlist.m3u8
-#EXTINF:-1 tvg-id="C8.fr" tvg-name="C8" tvg-logo="https://static.epg.best/fr/C8.fr.png" group-title="TV France" tvg-shift="+2",C8
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="C8" tvg-logo="https://static.epg.best/fr/C8.fr.png" group-title="TV France",C8
 http://gratuittv.free.fr/Files/c8/live/playlist.m3u8
-#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" tvg-logo="https://static.epg.best/fr/W9.fr.png" group-title="TV France" tvg-shift="+2",W9
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" tvg-logo="https://static.epg.best/fr/W9.fr.png" group-title="TV France",W9
 http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" tvg-logo="https://static.epg.best/fr/TMC.fr.png" group-title="TV France" tvg-shift="+2",TMC
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" tvg-logo="https://static.epg.best/fr/TMC.fr.png" group-title="TV France",TMC
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" tvg-logo="https://static.epg.best/fr/TFX.fr.png" group-title="TV France" tvg-shift="+2",TFX
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" tvg-logo="https://static.epg.best/fr/TFX.fr.png" group-title="TV France",TFX
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
-#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="NRJ12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/640px-NRJ12_logo_2015.svg.png" group-title="TV France" tvg-shift="+2",NRJ12
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="NRJ12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/640px-NRJ12_logo_2015.svg.png" group-title="TV France",NRJ12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-logo="https://static.epg.best/fr/France4.fr.png" group-title="TV France" tvg-shift="+2",France 4
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-logo="https://static.epg.best/fr/France4.fr.png" group-title="TV France",France 4
 http://gratuittv.free.fr/Files/france4/live/playlist.m3u8
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="https://static.epg.best/fr/BFMTV.fr.png" group-title="TV France" tvg-shift="+2",BFM TV
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="https://static.epg.best/fr/BFMTV.fr.png" group-title="TV France",BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
-#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CSTAR" tvg-logo="https://static.epg.best/fr/CStar.fr.png" group-title="TV France" tvg-shift="+2",CSTAR
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CSTAR" tvg-logo="https://static.epg.best/fr/CStar.fr.png" group-title="TV France",CSTAR
 http://gratuittv.free.fr/Files/cstar/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" group-title="TV France" tvg-shift="+2",Gulli
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" group-title="TV France",Gulli
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
-#EXTINF:-1 tvg-id="LEquipe.fr" tvg-name="L'équipe 21" tvg-logo="https://static.epg.best/fr/LEquipe21.fr.png" group-title="TV France" tvg-shift="+2",L'équipe 21
+#EXTINF:-1 tvg-id="LEquipe.fr" tvg-name="L'équipe 21" tvg-logo="https://static.epg.best/fr/LEquipe21.fr.png" group-title="TV France",L'équipe 21
 https://pwultrp.alwaysdata.net/equipe.php?m3u8
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" tvg-logo="https://static.epg.best/fr/6ter.fr.png" group-title="TV France" tvg-shift="+2",6ter
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" tvg-logo="https://static.epg.best/fr/6ter.fr.png" group-title="TV France",6ter
 http://gratuittv.free.fr/Files/6ter/live/playlist.m3u8
