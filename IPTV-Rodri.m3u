@@ -43,7 +43,7 @@ http://gratuittv.free.fr/Files/france4/live/playlist.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV" tvg-logo="https://static.epg.best/fr/BFMTV.fr.png" group-title="TV France",BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="CSTAR" tvg-logo="https://static.epg.best/fr/CStar.fr.png" group-title="TV France",CSTAR
-http://gratuittv.free.fr/Files/cstar/live/playlist.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" tvg-logo="https://static.epg.best/fr/Gulli.fr.png" group-title="TV France",Gulli
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
 #EXTINF:-1 tvg-id="LEquipe.fr" tvg-name="L'équipe 21" tvg-logo="https://static.epg.best/fr/LEquipe21.fr.png" group-title="TV France",L'équipe 21
