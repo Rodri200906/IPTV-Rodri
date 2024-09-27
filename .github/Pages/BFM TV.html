@@ -1,0 +1,40 @@
+<html>
+ <head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>BFM TV Direct | IPTV-Rodri</title>
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link href="https://fonts.googleapis.com/css2?family=Protest+Guerrilla&display=swap" rel="stylesheet">
+   <script src="https://raw.githack.com/Rodri200906/IPTV-Rodri/main/.github/player/playerjs-2.js" type="text/javascript"></script>
+   <style>
+   .protest-guerrilla-regular {
+  font-family: "Protest Guerrilla", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 40px
+}
+
+.player-size{
+width:500px;
+height:281px
+}
+
+.space {
+  padding: 50px
+       }
+  </style>
+ </head>
+ <body>
+ 	<div class="protest-guerrilla-regular">BFM TV Direct in IPTV-Rodri :</div>
+     <div class="space">
+     <div id="player">
+     <div class="player-size">
+     <script>
+     var player = new Playerjs({id:"player", file:"https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8",hls:1 ,poster:"https://www.bfmtv.com/assets/v6/images/BFMTV_cover.0e59683edc272142050866a07606bbba.jpg"}); 
+     </script>
+     </div>
+
+
+ </body>
+</html>
