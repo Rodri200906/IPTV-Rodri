@@ -50,3 +50,33 @@ https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758
 https://pwultrp.alwaysdata.net/equipe.php?m3u8
 #EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" tvg-logo="https://static.epg.best/fr/6ter.fr.png" group-title="TV France",6ter
 http://gratuittv.free.fr/Files/6ter/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Das Erste.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/ARD_Logo_2019.svg/400px-ARD_Logo_2019.svg.png" group-title="TV Germany",ARD 1
+https://s6.hopslan.com/ard1/index.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="https://seeklogo.com/images/Z/zdf-logo-0ACA8FA22B-seeklogo.com.png" group-title="TV Germany",ZDF
+https://s6.hopslan.com/zdf1111/index.m3u8
+#EXTINF:-1 tvg-id="RTL.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/RTL_DE_Logo_2021_blau_petrol_lila.png" group-title="TV Germany",RTL
+https://s6.hopslan.com/rtlq222/index.m3u8
+#EXTINF:-1 tvg-id="Sat.1.de" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/SAT.1_logo_2016.png" group-title="TV Germany",Sat 1
+https://s6.hopslan.com/sat1x11/index.m3u8
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1200px-ProSieben_Logo_2015.svg.png" group-title="TV Germany",Pro 7
+https://s6.hopslan.com/pro7x1/index.m3u8
+#EXTINF:-1 tvg-id="VOX.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/VOX_Logo_2013.svg/2560px-VOX_Logo_2013.svg.png" group-title="TV Germany",VOX
+https://s6.hopslan.com:443/voxx1/index.m3u8
+#EXTINF:-1 tvg-id="Kabel eins.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/1200px-Kabel_eins_Logo_2015.svg.png" group-title="TV Germany",Kabel 1
+https://s6.hopslan.com:443/kabel1x1/index.m3u8
+#EXTINF:-1 tvg-id="RTL ZWEI.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RTL2_Logo.svg/1200px-RTL2_Logo.svg.png" group-title="TV Germany",RTL 2
+https://s6.hopslan.com/rtl2x1/index.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/6/64/3sat_%282019-.n.v.%29.png",3 Sat
+https://s6.hopslan.com/3sat/index.m3u8
+#EXTINF:-1 tvg-id="ONE.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_oneTV_DE_2016.png/1200px-Logo_oneTV_DE_2016.png" group-title="TV Germany",One TV
+https://s6.hopslan.com/onetv/index.m3u8
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-logo="https://www.synck.de/content/upload/tvstations/zdfinfo.png",ZDF Info
+https://s6.hopslan.com:443/zdfinfox1/index.m3u8
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/1200px-ZDFneo2017_Logo.svg.png" group-title="TV Germany",ZDF Neo
+https://s6.hopslan.com/zdfneox1/index.m3u8
+#EXTINF:-1 tvg-id="Sixx.de" tvg-logo="https://iconape.com/wp-content/png_logo_vector/sixx-logo.png" group-title="TV Germany",Sixx
+https://s6.hopslan.com/sixx1/index.m3u8
+#EXTINF:-1 tvg-id="DMAX.de" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/dmax.jpg" group-title="TV Germany",Dmax
+https://s6.hopslan.com:443/dmax1/index.m3u8
+
