@@ -80,3 +80,17 @@ https://s6.hopslan.com/sixx1/index.m3u8
 #EXTINF:-1 tvg-id="DMAX.de" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/dmax.jpg" group-title="TV Germany",Dmax
 https://s6.hopslan.com:443/dmax1/index.m3u8
 
+#EXTINF:-1 tvg-id="ČT1.cz" tvg-name="ČT1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/langfr-200px-%C4%8CT1_logo_2012.svg.png" group-title="TV Czech",ČT1
+http://88.212.7.11/live/test_ct1_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="ČT2.cz" tvg-name="ČT2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/langfr-400px-%C4%8CT2_logo_2012.svg.png" group-title="TV Czech",ČT2
+http://88.212.7.11/live/test_ct2_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Nova TV.cz" tvg-name="Nova tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/TV_Nova_logo_2024.jpg" group-title="TV Czech",Nova TV
+http://88.212.7.11/live/nova_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Šlágr Originál.cz" tvg-name="Šlagr Originàl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/%C5%A0lagr-logo.png/800px-%C5%A0lagr-logo.png" group-title="TV Czech",Šlagr Originàl
+https://stream-13.mazana.tv/slagroriginal.m3u8s
+#EXTINF:-1 tvg-id="Prima.cz" tvg-name="Prima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Prima_TV_logo.svg/1599px-Prima_TV_logo.svg.png" group-title="TV Czech",Prima
+http://88.212.7.11/live/prima_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="PRAHA TV.cz" tvg-name="Praha TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWEc098sagx_Bn13q9D5dlJa-yld0-lGH7hg&usqp=CAU" group-title="TV Czech",Praha TV
+https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
+#EXTINF:-1 tvg-id="UTV.cz" tvg-name="UTV (Czech)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVjN8afgTkujNC3JuEUnjfiu3XbnIBG64CFw&s" group-title="TV Czech",UTV (Czech)
+https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
