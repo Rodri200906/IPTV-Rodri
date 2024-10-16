@@ -94,3 +94,24 @@ http://88.212.7.11/live/prima_avc_25p/playlist.m3u8
 https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
 #EXTINF:-1 tvg-id="UTV.cz" tvg-name="UTV (Czech)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVjN8afgTkujNC3JuEUnjfiu3XbnIBG64CFw&s" group-title="TV Czech",UTV (Czech)
 https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
+
+#EXTINF:-1 tvg-id="YleTV1.fi" tvg-name="Yle TV1" tvg-logo="https://static.wikia.nocookie.net/tera-pedia/images/1/10/Yle_TV1_logo_color.svg/revision/latest?cb=20230616071510" group-title="TV Finland",Yle TV1
+https://yletvworld.akamaized.net/hls/live/622540/yletv1w/playlist.m3u8
+#EXTINF:-1 tvg-id="YleTV2.fi" tvg-name="Yle TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/fi/thumb/8/84/Yle_TV2n_v%C3%A4rillinen_logo.webp/320px-Yle_TV2n_v%C3%A4rillinen_logo.webp.png" group-title="TV Finland",Yle TV2
+https://yletvworld.akamaized.net/hls/live/622541/yletv2w/playlist.m3u8
+#EXTINF:-1 tvg-id="MTV3.fi" tvg-name="MTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Mtv3_new_logo.svg/500px-Mtv3_new_logo.svg.png" group-title="TV Finland",MTV 3
+https://live-fi.tvkaista.net/mtv3/live.m3u8
+#EXTINF:-1 tvg-id="Nelonen.fi" tvg-name="Nelonen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Nelonen_color_RGB.png" group-title="TV Finland",Nelonen
+https://live-fi.tvkaista.net/nelonen/live.m3u8
+#EXTINF:-1 tvg-id="YleTeemaFem.fi" tvg-name="Yle Teema Fem" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yle_Teema_%26_Fem.svg/440px-Yle_Teema_%26_Fem.svg.png" group-title="TV Finland",Yle Teema Fem
+https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/playlist.m3u8
+#EXTINF:-1 tvg-id="Sub.fi" tvg-name="MTV Sub" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/MTV_Sub_Logo_2022.svg/640px-MTV_Sub_Logo_2022.svg.png" group-title="TV Finland",MTV Sub
+https://live-fi.tvkaista.net/sub/live.m3u8
+#EXTINF:-1 tvg-id="TV5.fi" tvg-name="TV5 (Finland)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/TV5_Finland_logo_2019.png" group-title="TV Finland",TV5 (Finland)
+https://live-fi.tvkaista.net/tv5/live.m3u8
+#EXTINF:-1 tvg-id="Liv.fi" tvg-name="Liv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Liv_color_RGB.png" group-title="TV Finland",Liv
+https://live-fi.tvkaista.net/liv/live.m3u8
+#EXTINF:-1 tvg-id="Jim.fi" tvg-name="Jim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Jim_color_RGB.png" group-title="TV Finland",Jim
+https://live-fi.tvkaista.net/jim/live.m3u8
+#EXTINF:-1 tvg-id="Kutonen.fi" tvg-name="Kutonen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kutonen_logo.svg/1200px-Kutonen_logo.svg.png" group-title="TV Finland",Kutonen
+https://live-fi.tvkaista.net/kutonen/live.m3u8
