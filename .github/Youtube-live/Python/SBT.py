@@ -21,7 +21,7 @@ def grab(url):
             os.system(f'curl "{url}" > temp.txt')
             response = ''.join(open('temp.txt').readlines())
             if '.m3u8' not in response:
-                print('https://raw.githubusercontent.com/Rodri200906/IPTV-Rodri/refs/heads/main/.github/Youtube-live/SBT-Infos.m3u8')
+                print('https://raw.githubusercontent.com/Rodri200906/IPTV-Rodri/refs/heads/main/.github/Youtube-live/Infos/SBT-Infos.m3u8')
                 return
     end = response.find('.m3u8') + 5
     tuner = 100
