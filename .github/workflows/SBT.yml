@@ -41,7 +41,6 @@ jobs:
       - name: Main
         run: |
           pwd
-          cd ./shell
           chmod +x SBT.sh
           ./SBT.sh
 
