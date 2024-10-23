@@ -1,0 +1,51 @@
+name: Extract M3U8
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # Exécute toutes les 5 minutes
+  workflow_dispatch:  # Permet de déclencher manuellement le workflow
+
+jobs:
+  extract_m3u8:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Extract M3U8
+        run: |
+          echo "import requests" >  ../.github/channels/yt-live/Python/extract_m3u8_sbt.py
+          echo "import re" >>  ../.github/channels/yt-live/Python/extract_m3u8_sbt.py
+          echo "url = 'https://m.youtube.com/watch?v=Tii6ljAdSm0'" >>  ../channels/yt-live/Python/extract_m3u8_sbt.py
+          echo "response = requests.get(url)" >> ../.github/channels/yt-live/Python/extract_m3u8_sbt.py
+          echo "m3u8_url = re.search(r'(https?://.*?\.m3u8)', response.text)" >>  ../.github/channels/yt-live/Python/extract_m3u8_sbt.py
+          echo "if m3u8_url:" >>  ../channels/yt-live/Python/extract_m3u8_sbt.py
+          echo "    m3u8_url = m3u8_url.group(0)" >>  ../.github/channels/yt-live/Python/extract_m3u8_sbt.py
+          echo "    with open('nouveau.m3u8', 'w') as f:" >>  ../.github/channels/yt-live/Python/extract_m3u8_sbt.py
+          echo "        f.write('#EXTM3U\\n')" >>  ../.github/channels/yt-live/Python/extract_m3u8_sbt.py
+          echo "        f.write('#EXT-X-VERSION:3\\n')" >>  ../.github/channels/yt-live/Python/extract_m3u8_sbt.py
+          echo "        f.write('#EXT-X-STREAM-INF:BANDWIDTH=1280000\\n')" >>  ../.github/channels/yt-live/Python/extract_m3u8_sbt.py
+          echo "        f.write(m3u8_url + '\\n')" >>  ../.github/channels/yt-live/Python/extract_m3u8_sbt.py
+          echo "else:" >>  ../.github/channels/yt-live/Python/extract_m3u8_sbt.py
+          echo "    print('M3U8 URL not found')" >> ../.github/channels/yt-live/Python/extract_m3u8_sbt.py
+          python ../.github/channels/yt-live/Python/extract_m3u8_sbt.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add nouveau.m3u8
+          git commit -m "Update SBT-Live.m3u8"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
