@@ -16,6 +16,10 @@ This is a IPTV file by me and he content channels from Portugal,France,Finland,B
 
 6- Click on the OK bouton and enjoy.
 
+# The IPTV Link 📎
+
+IPTV: https://raw.githubusercontent.com/Rodri200906/IPTV-Rodri/main/IPTV-Rodri.m3u
+
 # Channels Portugal 📺
 RTP 1
 
@@ -29,7 +33,7 @@ SIC Noticias
 
 CNN Portugal
 
-TVI Ficção
+V+ TVI
 
 Porto Canal
 
@@ -63,7 +67,3 @@ CStar
 Gulli
 
 L'équipe 21
-
-# The IPTV Link 📎
-
-IPTV: https://raw.githubusercontent.com/Rodri200906/IPTV-Rodri/main/IPTV-Rodri.m3u
