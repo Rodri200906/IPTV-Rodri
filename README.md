@@ -1,6 +1,6 @@
 # IPTV-Rodri
 
-This is a IPTV file by me and he content channels from Portugal,France,Finland,Brazil,Czech Republic and Germany.
+This is a IPTV file by me and he content channels from Portugal, France, Finland, Brazil, Czech Republic and Germany.
 
 # How to add on IPTV Player ?
 
