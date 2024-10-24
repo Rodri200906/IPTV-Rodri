@@ -109,3 +109,20 @@ https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/playlist.m3u8
 https://live-fi.tvkaista.net/sub/live.m3u8
 #EXTINF:-1 tvg-id="Kutonen.fi" tvg-name="Kutonen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Kutonen_logo.svg/1200px-Kutonen_logo.svg.png" group-title="TV Finland",Kutonen
 https://live-fi.tvkaista.net/kutonen/live.m3u8
+
+#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-name="Globo (RJ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/TV_Globo_new_logo.webp/410px-TV_Globo_new_logo.webp.png" group-title="TV Brazil",Globo (RJ)
+https://stream.m3u8.one/globorj/index.m3u8
+#EXTINF:-1 tvg-id="Record.br" tvg-name="Record TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/RecordTV_logo_2016.png/640px-RecordTV_logo_2016.png" group-title="TV Brazil",Record TV
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT (Central)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b2/Sistema_Brasileiro_de_Televis%C3%A3o_logo_2014.png" group-title="TV Brazil",SBT (Central)
+https://youtube-live-channels.iptv-rodri-lives.workers.dev/channel/UC-kzuB1mP2LnmaXMPniKeyg.m3u8
+#EXTINF:-1 tvg-id="BandAmazonas.br" tvg-name="Band TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1000px-Rede_Bandeirantes_logo_2011.svg.png" group-title="TV Brazil",Band TV
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="RedeTV!" tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/9/9a/RedeTV%21_logo_2019.png/revision/latest?cb=20220107180416" group-title="TV Brazil",RedeTV!
+https://cdn.jmvstream.com/w/AVJ-15235/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1000px-Cultura_logo_2013.svg.png" group-title="TV Brazil",Cultura
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/TV5_Finland_logo_2019.png" group-title="TV Brazil",Futura
+https://tv.unisc.br/hls/test.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Canal_Gov_Logo.png" group-title="TV Brazil",Record News
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
