@@ -115,7 +115,7 @@ https://stream.m3u8.one/globorj/index.m3u8
 #EXTINF:-1 tvg-id="Record.br" tvg-name="Record TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/RecordTV_logo_2016.png/640px-RecordTV_logo_2016.png" group-title="TV Brazil",Record TV
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT (Central)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b2/Sistema_Brasileiro_de_Televis%C3%A3o_logo_2014.png" group-title="TV Brazil",SBT (Central)
-https://youtube-live-channels.iptv-rodri-lives.workers.dev/channel/UC-kzuB1mP2LnmaXMPniKeyg.m3u8
+https://sbt-central.iptv-rodri-lives.workers.dev/stream/Tii6ljAdSm0/master.m3u8
 #EXTINF:-1 tvg-id="BandAmazonas.br" tvg-name="Band TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1000px-Rede_Bandeirantes_logo_2011.svg.png" group-title="TV Brazil",Band TV
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="RedeTV!" tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia/images/9/9a/RedeTV%21_logo_2019.png/revision/latest?cb=20220107180416" group-title="TV Brazil",RedeTV!
@@ -126,3 +126,18 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 https://tv.unisc.br/hls/test.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Canal_Gov_Logo.png" group-title="TV Brazil",Record News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KBS1" tvg-name="KBS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/1024px-KBS_1_logo.svg.png" group-title="TV Korea",KBS 1
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1 tvg-id="KBS2" tvg-name="KBS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1024px-KBS_2_logo.svg.png" group-title="TV Korea",KBS 2
+http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC TV" tvg-logo="https://static.wikia.nocookie.net/drama/images/2/2f/MBC.png/revision/latest?cb=20200229173706" group-title="TV Korea",MBC TV
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-id="SBS" tvg-name="SBS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/langfr-300px-SBS_Korea_Logo_%28Word_Only%29.svg.png" group-title="TV Korea",SBS TV
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 tvg-id="EBS" tvg-name="EBS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/EBS_Logo.svg/1024px-EBS_Logo.svg.png" group-title="TV Korea",EBS 1
+https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-id="TBS TV" tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Logo_TBS.svg/800px-Logo_TBS.svg.png?20210701214340" group-title="TV Korea",TBS
+https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_360.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="The K-POP" tvg-logo="https://yt3.googleusercontent.com/Sf78Tu12_JgshfoEnx1ndkt_jzWFqV5YSz3zN289y7LodIVbp1DUgQGGIJMdCCeyHxwyAWXhNw=s900-c-k-c0x00ffffff-no-rj" group-title="TV Korea",The K-POP
+https://the-kpop.iptv-rodri-lives.workers.dev/stream/JVocS7Yftw8/master.m3u8
