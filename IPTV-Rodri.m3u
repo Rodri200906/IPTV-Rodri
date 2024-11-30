@@ -11,12 +11,18 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 #EXTINF:-1 tvg-id="CNN Portugal HD.pt" tvg-name="CNN PORTUGAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMhSHS1fioOrEoPHSy-KCpsjjGf3TKI_mMrOaldnRFQg&s" group-title="TV Portugal",CNN PORTUGAL
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
+#EXTINF:-1 tvg-id="CMTV HD.pt" tvg-name="CMTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png" group-title="TV Portugal",CMTV
+http://tvmate.icu:8080/live/A1Jay5/362586/78441.m3u8
+#EXTINF:-1 tvg-id="Canal 11 HD.pt" tvg-name="Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Logo_Canal_11_FPF_1.svg/1024px-Logo_Canal_11_FPF_1.svg.png" group-title="TV Portugal",Canal 11
+http://mwgwvjv.smart-tv.xyz:900/live/3969424152/3723991250/165618.m3u8
 #EXTINF:-1 tvg-id="V+TVI.pt" tvg-name="V+ TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/ef/V%2BTVI_Logo.png/400px-V%2BTVI_Logo.png" group-title="TV Portugal",V+ TVI
 https://video-auth5.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Porto Canal HD.pt" tvg-name="Porto Canal" tvg-logo="https://portocanal.sapo.pt/uploads/noticias/noticia_00078678-580x464.jpg" group-title="TV Portugal",Porto Canal
 https://bcovlive-a.akamaihd.net/34ec8f209dcc48dda853aca054c97ab2/eu-west-1/6415811594001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="TVI Reality HD.pt" tvg-name="TVI Reality" tvg-logo="https://static.epg.best/pt/TVIReality.pt.png" group-title="TV Portugal",TVI Reality
 https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
+#EXTINF:-1 tvg-id="24Kitchen HD.pt" tvg-name="24 Kitchen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" group-title="TV Portugal",24 Kitchen
+http://mwgwvjv.smart-tv.xyz:900/live/3969424152/3723991250/165666.m3u8
 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://static.epg.best/fr/TF1.fr.png" group-title="TV France",TF1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
